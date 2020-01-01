@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MedicalWeb.iml" filepath="$PROJECT_DIR$/MedicalWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicaweb-common/medicaweb-common.iml" filepath="$PROJECT_DIR$/medicaweb-common/medicaweb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicaweb-dao/medicaweb-dao.iml" filepath="$PROJECT_DIR$/medicaweb-dao/medicaweb-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicaweb-projo/medicaweb-projo.iml" filepath="$PROJECT_DIR$/medicaweb-projo/medicaweb-projo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicaweb-service/medicaweb-service.iml" filepath="$PROJECT_DIR$/medicaweb-service/medicaweb-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medicaweb-web/medicaweb-web.iml" filepath="$PROJECT_DIR$/medicaweb-web/medicaweb-web.iml" />
+    </modules>
+  </component>
+</project>

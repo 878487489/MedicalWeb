@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="medicaweb-web" />
+        <module name="medicaweb-common" />
+        <module name="medicaweb-projo" />
+        <module name="medicaweb-service" />
+        <module name="medicaweb-dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MedicalWeb" target="1.8" />
+      <module name="medicaweb-common" target="1.8" />
+      <module name="medicaweb-dao" target="1.8" />
+      <module name="medicaweb-projo" target="1.8" />
+      <module name="medicaweb-service" target="1.8" />
+      <module name="medicaweb-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MedicalWeb" options="-parameters" />
+      <module name="medicaweb-common" options="-parameters" />
+      <module name="medicaweb-dao" options="-parameters" />
+      <module name="medicaweb-projo" options="-parameters" />
+      <module name="medicaweb-service" options="-parameters" />
+      <module name="medicaweb-web" options="-parameters" />
+    </option>
+  </component>
+</project>
